@@ -19,9 +19,8 @@ I’m currently working on: As a Python developer, you can mention what projects
 
 
 # Stats
-![](https://github-readme-stats.vercel.app/api?username=AdriesInc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdriesInc&theme=dark&hide_border=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=AdriesInc&limit=5&theme=dark&combine_all_monthly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=adriesxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adriesxyz&theme=dark&hide_border=false)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=adriesxyz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </details>
-
